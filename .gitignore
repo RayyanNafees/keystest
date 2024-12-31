@@ -6,6 +6,7 @@
 # Ignore content collection generated files
 .astro
 .vercel
+.netlify
 
 ### Node ###
 # Logs
